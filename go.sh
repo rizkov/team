@@ -58,6 +58,7 @@ pear install --alldeps \
    phpunit/PHPUnit_TestListener_XHProf \
    phpunit/PHPUnit_TicketListener_Trac \
    phpunit/PHP_Invoker \
+   phpunit/PHPUnit_MockObject\
    VersionControl_Git \
    Archive_Tar \
    pear.pdepend.org/PHP_Depend-beta \
